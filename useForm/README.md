@@ -7,4 +7,4 @@ Ejemplo de uso:
 ```
 
 
-useCounter() // recibe un valor por defecto
+useCounter() // recibe un val;or por defecto
