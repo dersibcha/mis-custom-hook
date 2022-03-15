@@ -1,4 +1,4 @@
-# UseFetch Hook
+# useFetch Hook
 
 Ejemplo de uso: 
 ```
